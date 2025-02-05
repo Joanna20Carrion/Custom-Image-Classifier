@@ -13,7 +13,6 @@ The repository contains the following key files:
 - 📁 **`predict.py`** – Script for making predictions with the trained model.  
 - 📁 **`utils.py`** – Utility functions for data preprocessing and visualization.  
 - 📁 **`checkpoint.pth`** – The saved trained model.  
-- 📁 **`README.md`** – This document.  
 
 ## **Installation & Setup**  
 To run this project, you need Python 3, PyTorch, and other dependencies. Install them using:  
@@ -47,10 +46,5 @@ This will return the **top 5 predicted classes** for the image.
 - Matplotlib  
 - Pandas  
 
-## **Future Improvements**  
-- Implement a **Grad-CAM visualization** to interpret model predictions.  
-- Improve data augmentation techniques for better generalization.  
-- Deploy the model as a web application.  
-
 ## **Contributing**  
-Feel free to **fork this repository** and submit pull requests with improvements. 
+... 
