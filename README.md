@@ -46,11 +46,11 @@ This will return the **top 5 predicted classes** for the image.
 - Matplotlib  
 - Pandas  
 
-## Autor
-**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+## **Author**  
+**Joanna Alexandra Carrión Pérez**: Bachelor's degree in Electronic Engineering. Passionate about Data Science and Artificial Intelligence. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)  
 
-## Contacto
-Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+## **Contact**  
+For any questions or suggestions, feel free to contact me at **joannacarrion14@gmail.com**.  
 
-## Contribuciones
-¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
+## **Contributions**  
+Contributions are welcome! If you have ideas or improvements, feel free to fork the repository and submit a pull request.  
