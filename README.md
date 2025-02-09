@@ -25,7 +25,7 @@ pip install -r requirements.txt
 To train the model, run:  
 
 ```bash
-python train.py --data_dir path/to/data --epochs 10 --learning_rate 0.001
+python train.py --data_dir path/to/data --epochs 2 --learning_rate 0.001
 ```
 
 You can modify **hyperparameters** such as learning rate, batch size, and epochs in `train.py`.  
