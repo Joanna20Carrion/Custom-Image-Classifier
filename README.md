@@ -11,15 +11,7 @@ The repository contains the following key files:
 - 📁 **`image_classifier_project.ipynb`** – Jupyter Notebook with the training pipeline.  
 - 📁 **`train.py`** – Python script for training the model.  
 - 📁 **`predict.py`** – Script for making predictions with the trained model.  
-- 📁 **`utils.py`** – Utility functions for data preprocessing and visualization.  
 - 📁 **`checkpoint.pth`** – The saved trained model.  
-
-## **Installation & Setup**  
-To run this project, you need Python 3, PyTorch, and other dependencies. Install them using:  
-
-```bash
-pip install -r requirements.txt
-```
 
 ## **Training the Model**  
 To train the model, run:  
