@@ -3,21 +3,18 @@
 ## **Project Overview**  
 This project is a deep learning-based **image classifier** that can recognize different categories of images using a **pre-trained convolutional neural network (CNN)**. The model is trained using **PyTorch** and utilizes transfer learning to improve accuracy while reducing training time.  
 
-The dataset used consists of images labeled into multiple classes, and the model is fine-tuned to classify them with high precision.  
-
 ## **Project Files**  
 The repository contains the following key files:  
 
 - 📁 **`image_classifier_project.ipynb`** – Jupyter Notebook with the training pipeline.  
 - 📁 **`train.py`** – Python script for training the model.  
 - 📁 **`predict.py`** – Script for making predictions with the trained model.  
-- 📁 **`checkpoint.pth`** – The saved trained model.  
 
 ## **Training the Model**  
 To train the model, run:  
 
 ```bash
-python train.py --data_dir path/to/data --epochs 2 --learning_rate 0.001
+python train.py "flowers" --save_dir "path/to/directory" --arch "vgg13" --lrn 0.001 --hidden_units 2048 --epochs 5 --GPU "GPU"
 ```
 
 You can modify **hyperparameters** such as learning rate, batch size, and epochs in `train.py`.  
@@ -26,7 +23,7 @@ You can modify **hyperparameters** such as learning rate, batch size, and epochs
 To classify an image using the trained model, use:  
 
 ```bash
-python predict.py path/to/image checkpoint.pth --top_k 5
+python predict.py "path/to/image.jpg" --load_dir "checkpoint.pth" --top_k 5 --category_names "cat_to_name.json" --GPU "GPU"
 ```
 
 This will return the **top 5 predicted classes** for the image.  
