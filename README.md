@@ -29,7 +29,7 @@ python predict.py "path/to/image.jpg" --load_dir "checkpoint.pth" --top_k 5 --ca
 This will return the **top 5 predicted classes** for the image.  
 
 ## **Technologies Used**  
-- Python 3  
+- Python 3 
 - PyTorch  
 - NumPy  
 - Matplotlib  
