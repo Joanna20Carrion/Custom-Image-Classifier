@@ -122,7 +122,5 @@ Contributions are welcome! If you find bugs or would like to improve this projec
 ## **Author**  
 **Joanna Alexandra Carrión Pérez**: Bachelor's degree in Electronic Engineering. Passionate about Data Science and Artificial Intelligence. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)  
 
----
-
 ## **Contact**  
 For any questions or suggestions, feel free to contact me at **joannacarrion14@gmail.com**.  
