@@ -1,5 +1,14 @@
 # **Custom Image Classifier**
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-0.10%2B-orange)
+![PIL](https://img.shields.io/badge/PIL-Image%20Processing-red)
+![NumPy](https://img.shields.io/badge/NumPy-numerical%20computing-lightblue)
+![Pandas](https://img.shields.io/badge/pandas-data%20analysis-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blueviolet)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 This repository contains a **PyTorch**-based **image classification** project, focused on recognizing different flower categories (or any other image dataset you wish to use). It includes scripts to train a model and to predict the class of a new image, as well as a Jupyter notebook for interactive use.
 
 ---
@@ -120,7 +129,10 @@ Contributions are welcome! If you find bugs or would like to improve this projec
 ---
 
 ## **Author**  
-**Joanna Alexandra Carrión Pérez**: Bachelor's degree in Electronic Engineering. Passionate about Data Science and Artificial Intelligence. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)  
+**Joanna Alexandra Carrión Pérez**  
+🎓 Bachelor's degree in Electronic Engineering  
+💡 Passionate about Data Science and Artificial Intelligence  
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
 ## **Contact**  
-For any questions or suggestions, feel free to contact me at **joannacarrion14@gmail.com**.  
+For any questions or suggestions, feel free to contact me at **joannacarrion14@gmail.com**.
